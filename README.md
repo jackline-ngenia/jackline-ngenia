@@ -2,8 +2,6 @@
 
 As a proficient data scientist, I excel in transforming complex datasets into actionable strategies through keen analysis and building cutting-edge machine learning models. My technical prowess in data science allows me to draw meaningful conclusions and make informed and data-driven decisions.
 
-I am passionate about developing new skills and building lasting professional relationships for self growth and organizational achievement.
-
 I aim to achieve high career growth through a continuous learning process and keep myself dynamic, visionary and competitive with the changing scenario of the world.
 
 **More about me:**
