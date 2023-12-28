@@ -17,7 +17,7 @@ I aim to achieve high career growth through a continuous learning process and ke
 
 ### Contact:
 - 📨 Email: jacklinengenia617@gmail.com
-- 🔗 LinkedIn: <a href="https://www.linkedin.com/in/jackline-ngenia-2a19311a1/">Jackline Ngenia LinkedIn Profile</a>
+- 🔗 LinkedIn: <a href="https://www.linkedin.com/in/jackline-ngenia-2a19311a1/">My LinkedIn Profile</a>
 
 
 <h3 align="left">Languages and Tools:</h3>
