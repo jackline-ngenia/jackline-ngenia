@@ -6,16 +6,16 @@ I aim to achieve high career growth through a continuous learning process and ke
 
 **More about me:**
 
-- 👩🏾‍💻 I’m currently working as a Junior Data Scientist at <a href="https://asantefinancegroup.com/" target="_blank">Asante Financial Serivces Group</a>
+- 👩🏾‍💻 I’m currently working as a Junior Data Scientist at <a href="https://asantefinancegroup.com/" target="_blank">Asante Financial Serivces Group</a>.
 
-- 💬 Let's brainstorm over tech startup ideas, data science and AI solutions, career, and travel
+- 💬 Let's brainstorm over tech startup ideas, data science and AI solutions, career, and travel.
 
-- 🌟 I am a volunteer mentor at <a href="https://www.instagram.com/dream_rise_foundation/" target="_blank">Dream Rise Foundation</a>, focusing on inspiring, empowering and transforming the youth
+- 🌟 I am a volunteer mentor at <a href="https://www.instagram.com/dream_rise_foundation/" target="_blank">Dream Rise Foundation</a>, focusing on inspiring, empowering and transforming the youth.
 
-- ⚡ Fun fact: I enjoy traveling and listening to podcasts
+- ⚡ Fun fact: I enjoy traveling and listening to podcasts.
 
 
-### Contact:
+### Contact me via:
 - 📨 Email: jacklinengenia617@gmail.com
 - 🔗 LinkedIn: <a href="https://www.linkedin.com/in/jackline-ngenia-2a19311a1/">My LinkedIn Profile</a>
 
