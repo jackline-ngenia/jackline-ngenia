@@ -29,6 +29,6 @@ I aim to achieve high career growth through a continuous learning process and ke
 
 ### Github Stats:
 
-<img align="left" width="25%" src="https://github-readme-stats.vercel.app/api?username=jackline-ngenia&show_icons=true&theme=transparent"/>
-<img align="left" width="25%" src="https://github-readme-streak-stats.herokuapp.com/?user=jackline-ngenia&theme=transparent"/>
-<img align="left" width="25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackline-ngenia&layout=compact&theme=transparent"/>
+<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api?username=jackline-ngenia&show_icons=true&theme=transparent"/>
+<img align="left" width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=jackline-ngenia&theme=transparent"/>
+<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackline-ngenia&layout=compact&theme=transparent"/>
