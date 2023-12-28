@@ -1,6 +1,4 @@
-### Hello there👋,
-
-#### I am Jackline Ngenia.
+### Hello there, I'm Jackie👋,
 
 As a proficient data scientist, I excel in transforming complex datasets into actionable strategies through keen analysis and building cutting-edge machine learning models. My technical prowess in data science allows me to draw meaningful conclusions and make informed and data-driven decisions.
 
