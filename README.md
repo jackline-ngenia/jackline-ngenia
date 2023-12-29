@@ -1,4 +1,9 @@
-### Hello there, I'm Jackie👋,
+### Hello there, I'm Jackline👋,
+
+<a href="https://www.linkedin.com/in/jackline-ngenia-2a19311a1/" target="_blank">
+  <img alt="LinkedIn Badge" width="100px" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />
+</a>
+
 
 As a proficient data scientist, I excel in transforming complex datasets into actionable strategies through keen analysis and building cutting-edge machine learning models. My technical prowess in data science allows me to draw meaningful conclusions and make informed and data-driven decisions.
 
@@ -14,17 +19,24 @@ I aim to achieve high career growth through a continuous learning process and ke
 
 - ⚡ Fun fact: I enjoy traveling and listening to podcasts.
 
-
-### Contact me via:
-- 📨 Email: jacklinengenia617@gmail.com
-- 🔗 LinkedIn: <a href="https://www.linkedin.com/in/jackline-ngenia-2a19311a1/">My LinkedIn Profile</a>
-
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-### Github Stats:
+**Github Stats:**
 
-<img align="left" width="30%" src="https://github-readme-stats.vercel.app/api?username=jackline-ngenia&show_icons=true&theme=transparent"/>
-<img align="left" width="30%" src="https://github-readme-streak-stats.herokuapp.com/?user=jackline-ngenia&theme=transparent"/>
-<img align="left" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackline-ngenia&layout=compact&theme=transparent"/>
+<div align="left">
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=jackline-ngenia&&count_private=true&show_icons=true&bg_color=ffffff&title_color=1f1f1f&text_color=1f1f1f&icon_color=ffbb00&hide_border=true">
+<img width="44%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jackline-ngenia&&count_private=true&show_icons=true&bg_color=0D1117&title_color=ffffff&text_color=929292&icon_color=F1E05A&hide_border=true"/>
+</picture>
+
+<picture>
+ <img width="13%"  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="My streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jackline-ngenia&theme=github-dark-blue&hide_border=true&stroke=0000&exclude_days=Sun%2CSat&hide_total_contributions=true&background=060A0CD0&hide_current_streak=true&card_width=130"/>
+</picture>
+
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jackline-ngenia&layout=compact&bg_color=ffffff&title_color=1f1f1f&text_color=1f1f1f&hide_border=true">
+<img width="34%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jackline-ngenia&layout=compact&bg_color=0D1117&title_color=ffffff&text_color=929292&hide_border=true" />
+</picture>
+
+</div>
