@@ -35,7 +35,7 @@ I aim to achieve high career growth through a continuous learning process and ke
 
 - ⚡ Fun fact: I enjoy traveling and listening to podcasts.
 
-- ✉️ Feel free to reach me at jacklinengenia617@gmail.com
+- ✉️ Feel free to reach me at jacklinengenia617@gmail.com.
 
 <br/>
 
