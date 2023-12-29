@@ -31,6 +31,8 @@ I aim to achieve high career growth through a continuous learning process and ke
 
 - 🌟 I am a volunteer mentor at <a href="https://www.instagram.com/dream_rise_foundation/" target="_blank">Dream Rise Foundation</a>, focusing on inspiring, empowering and transforming the youth.
 
+- 🔍 Interested in my path to this point? Check out <a href="https://github.com/jackline-ngenia/my_certificates/blob/main/README.md" target="_blank">my certificates/a> for the story.
+
 - ⚡ Fun fact: I enjoy traveling and listening to podcasts.
 
 - ✉️ Feel free to reach me at jacklinengenia617@gmail.com
