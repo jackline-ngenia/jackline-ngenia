@@ -25,7 +25,7 @@ I aim to achieve high career growth through a continuous learning process and ke
 
 **More about me:**
 
-- 👩🏾‍💻 I’m currently working as a Junior Data Scientist at <a href="https://asantefinancegroup.com/" target="_blank">Asante Financial Serivces Group</a>.
+- 👩🏾‍💻 I’m currently working as a Data Scientist at <a href="https://asantefinancegroup.com/" target="_blank">Asante Financial Serivces Group</a>.
 
 - 💬 Let's brainstorm over tech startup ideas, data science and AI solutions, career, and travel.
 
